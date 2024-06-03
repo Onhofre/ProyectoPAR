@@ -79,5 +79,5 @@ Somos Propuesta de Servicios de Redes Domésticas, una empresa dedicada a propor
 •	Implementar mejoras continúas basadas en el uso y las necesidades cambiantes de los usuarios.
 •	Mantenerse actualizado con las últimas tecnologías y prácticas de seguridad para garantizar la protección continua de la red doméstica.
 
-* [REALIZAR]([https://github.com/Onhofre/ProyectoPAR/blob/main/A%20REALIZAR.md])
+* [REALIZAR](https://github.com/Onhofre/ProyectoPAR/blob/main/A%20REALIZAR.md)
 
