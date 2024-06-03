@@ -36,10 +36,14 @@
 
 Conectar Dispositivos al Router:
 
-### Por Cable: Usar cables Ethernet para conectar dispositivos como computadoras y consolas de juegos a los puertos LAN del router.
+### Por Cable: 
+Usar cables Ethernet para conectar dispositivos como computadoras y consolas de juegos a los puertos LAN del router.
 
-### Inalámbricamente: Configurar la red Wi-Fi del router y conectar dispositivos inalámbricos introduciendo la contraseña de la red.
-Configurar el Router:
+### Inalámbricamente: 
+
+Configurar la red Wi-Fi del router y conectar dispositivos inalámbricos introduciendo la contraseña de la red.
+
+## Configurar el Router:
 
 ### Asignar Direcciones IP:
 
@@ -53,11 +57,11 @@ Probar la velocidad de internet para asegurarse de que se recibe el ancho de ban
 
 ### Seguridad de la Red
 
-### Contraseña Fuerte: Usar contraseñas robustas para la red Wi-Fi y la administración del router.
+ Contraseña Fuerte: Usar contraseñas robustas para la red Wi-Fi y la administración del router.
 
-### Firewall: Activar el firewall del router para proteger la red contra accesos no autorizados.
+ Firewall: Activar el firewall del router para proteger la red contra accesos no autorizados.
 
-### Actualizaciones de Firmware: Mantener el firmware del router actualizado para protegerse contra vulnerabilidades conocidas.
+ Actualizaciones de Firmware: Mantener el firmware del router actualizado para protegerse contra vulnerabilidades conocidas.
 
 ## ACIERTOS Y DESACIERTOS EN EL PROCESO
 
