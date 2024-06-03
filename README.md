@@ -78,12 +78,3 @@ Somos Propuesta de Servicios de Redes Domésticas, una empresa dedicada a propor
 •	Utilizar herramientas de monitoreo de red para detectar y solucionar problemas.
 •	Implementar mejoras continúas basadas en el uso y las necesidades cambiantes de los usuarios.
 •	Mantenerse actualizado con las últimas tecnologías y prácticas de seguridad para garantizar la protección continua de la red doméstica.
-
-Estos objetivos específicos permiten desglosar el objetivo general en tareas concretas y manejables, garantizando que todos los aspectos importantes de la creación y mantenimiento de una red doméstica segura y eficiente sean cubiertos.
-
-
-
-
-
-
-
