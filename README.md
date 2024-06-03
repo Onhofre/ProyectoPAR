@@ -78,3 +78,6 @@ Somos Propuesta de Servicios de Redes Domésticas, una empresa dedicada a propor
 •	Utilizar herramientas de monitoreo de red para detectar y solucionar problemas.
 •	Implementar mejoras continúas basadas en el uso y las necesidades cambiantes de los usuarios.
 •	Mantenerse actualizado con las últimas tecnologías y prácticas de seguridad para garantizar la protección continua de la red doméstica.
+
+* [REALIZAR ]([[https://youtu.be/Kp4Mvapo5kc](https://github.com/Onhofre/ProyectoPAR/blob/main/A%20REALIZAR.md)])
+
