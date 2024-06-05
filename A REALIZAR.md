@@ -75,3 +75,8 @@ Probar la velocidad de internet para asegurarse de que se recibe el ancho de ban
 
 •	Establecer mal la dirección IP fija
 •	Configurar de buena manera los permisos para los equipos que se conectaran
+
+
+# Whatsap 3106683829
+# Facebook redes.domesticas
+# Intagram redes.domesticas
